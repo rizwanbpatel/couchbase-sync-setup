@@ -2,13 +2,11 @@
   "interface":":4984",
   "log": ["*"],
   "databases": {
-    "a2z": {
+    "db": {
       "server": "http://localhost:8091",
-      "bucket": "travel-sample",
+      "bucket": "default",
       "username": "default",
-      "password": "password",
-      "enable_shared_bucket_access": true,
-      "import_docs": "continuous"
+      "password": "password"
      }
   }
 }
