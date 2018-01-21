@@ -2,7 +2,7 @@
   "interface":":4984",
   "log": ["*"],
   "databases": {
-    "db": {
+    "a2z": {
       "server": "http://localhost:8091",
       "bucket": "default",
       "username": "default",
