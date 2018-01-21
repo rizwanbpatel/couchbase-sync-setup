@@ -1,4 +1,5 @@
 {
+  "interface":":4984",
   "log": ["*"],
   "databases": {
     "db": {
