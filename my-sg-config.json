@@ -4,7 +4,7 @@
   "databases": {
     "a2z": {
       "server": "http://localhost:8091",
-      "bucket": "default",
+      "bucket": "travel-sample",
       "username": "default",
       "password": "password",
       "enable_shared_bucket_access": true,
