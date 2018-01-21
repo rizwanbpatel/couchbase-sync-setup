@@ -3,7 +3,7 @@
   "log": ["*"],
   "databases": {
     "db": {
-      "server": "http://localhost:8091",
+      "server": "http://couchbase-server:8091",
       "bucket": "default",
       "username": "default",
       "password": "password"
