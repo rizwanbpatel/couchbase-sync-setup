@@ -5,7 +5,7 @@
       "server": "http://localhost:8091",
       "bucket": "default",
       "username": "default",
-      "password": "password",
+      "password": "password"
      }
   }
 }
