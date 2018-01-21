@@ -2,7 +2,7 @@
   "log": ["*"],
   "databases": {
     "db": {
-      "server": "http://couchbase-server:8091",
+      "server": "http://localhost:8091",
       "bucket": "default",
       "users": { "GUEST": { "disabled": false, "admin_channels": ["*"] } }
     }
