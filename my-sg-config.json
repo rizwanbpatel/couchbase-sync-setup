@@ -4,7 +4,7 @@
   "databases": {
     "db": {
       "server": "http://172.18.0.2:8091",
-      "bucket": "default",
+      "bucket": "travel-sample",
       "username": "admin",
       "password": "abc12345"
      }
