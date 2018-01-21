@@ -4,8 +4,8 @@
     "db": {
       "server": "http://localhost:8091",
       "bucket": "default",
-      “username”: "default",
-      “password”: "password",
+      "username": "default",
+      "password": "password",
      }
   }
 }
