@@ -3,7 +3,7 @@
   "log": ["*"],
   "databases": {
     "db": {
-      "server": "http://192.168.1.6:8091",
+      "server": "http://172.18.0.2:8091",
       "bucket": "dhobi",
       "username": "admin",
       "password": "abc12345"
