@@ -6,8 +6,7 @@
       "server": "http://172.18.0.2:8091",
       "bucket": "dhobi",
       "username": "admin",
-      "password": "abc12345",
-      "import_docs": "continuous"
+      "password": "abc12345"
      }
   }
 }
