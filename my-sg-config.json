@@ -6,7 +6,6 @@
       "server": "http://172.18.0.2:8091",
       "bucket": "dhobi",
       "users":{
-          "admin":{"password": "acb12345", "admin_channels":["admin"]},
           "GUEST": {"disabled": false, "admin_channels": ["*"] }
       },
       "roles":{
