@@ -6,7 +6,8 @@
       "server": "http://172.18.0.2:8091",
       "bucket": "dhobi",
       "username": "admin",
-      "password": "abc12345"
+      "password": "abc12345",
+      "enable_shared_bucket_access":"true"
      }
   }
 }
