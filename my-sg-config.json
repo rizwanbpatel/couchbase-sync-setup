@@ -5,8 +5,11 @@
     "db": {
       "server": "http://172.18.0.2:8091",
       "bucket": "dhobi",
-      "username": "admin",
-      "password": "abc12345"
+      "users": { 
+         "GUEST": { "disabled": false, "admin_channels": ["*"] } 
+      },
+      "allow_conflicts": false,
+      "revs_limit": 20
      }
   }
 }
