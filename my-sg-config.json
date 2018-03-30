@@ -7,7 +7,7 @@
       "bucket": "dhobi",
       "users": { 
          "GUEST": { "disabled": false, "admin_channels": ["*"] },
-         "admin" : "abc12345"
+         "admin": {"password": "abc12345"}
       },
       "allow_conflicts": false,
       "revs_limit": 20
