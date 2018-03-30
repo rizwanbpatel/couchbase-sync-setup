@@ -6,8 +6,8 @@
       "server": "http://172.18.0.2:8091",
       "bucket": "dhobi",
       "users": { 
-         "GUEST": { "disabled": false, "admin_channels": ["*"] },
-         "admin": {"password": "abc12345"}
+        "admin": { "password": "abc12345", "admin_channels":["*"] },
+        "GUEST": { "disabled": false, "admin_channels": ["*"] }
       },
       "allow_conflicts": false,
       "revs_limit": 20
